@@ -5,8 +5,8 @@ This will be the start of work to add [Flux Framework](https://flux-framework.or
 ## Work Log
 
 - December 13: Build done with spack on ubuntu 20.04, too slow (hours)
-- December 14: Build updated to be done without spack on ubuntu 22.04
-
+- December 14: Build updated to be done without spack on ubuntu 22.04 (source)
+- December 14: Build added using just conda-forge (default)!
 
 ## License
 
